@@ -9,7 +9,7 @@ Color Picker is a simple yet fun project built with HTML, CSS, and JavaScript. I
 - **Hex Color Generator**: Generates and displays a random HEX color code with each interaction.
 
 ## Deployed at:
-- https://kappa-colorpicker.netlify.app/hex
+- https://kappa-colorpicker.netlify.app/
 ## Screenshots
 
 ![Home Screen](https://i.imgur.com/CskdEA7.png)
